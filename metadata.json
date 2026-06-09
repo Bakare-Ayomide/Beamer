@@ -1,0 +1,6 @@
+{
+  "name": "Local File Share",
+  "description": "Offline peer-to-peer mobile file sharing application utilizing client-side blob streaming, direct QR code downloads, and local transfer history tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
